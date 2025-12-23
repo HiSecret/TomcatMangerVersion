@@ -1,6 +1,6 @@
 {
-  "version": "0.0.8",
-  "notice_zh": "新版本发布，增加了日志查看功能！",
-  "notice_en": "New version released with log viewing support!",
+  "version": "0.0.9",
+  "notice_zh": "新版本发布，重构日志显示！",
+  "notice_en": "New version released with refactor log output!",
   "download_url": "https://vb401oslhc.feishu.cn/docx/Q0jwdFnkUoU9ZWxR9GvcLOT3nQ3"
 }
